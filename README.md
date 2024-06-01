@@ -1,5 +1,5 @@
 # Interactive-Portfolio 
-[![GitHub](https://ajit-personal-portfolio.netlify.app/)
+[![GitHub](https://ajit-personal-portfolio.netlify.app/)]
 ## A Resposive and attractive portfolio for Developers 🔥
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
 Later on add some javascript for animation and designing.
